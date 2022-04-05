@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  },
+  "devDependencies": {
+    "prettier": "2.6.1"
+  }
+}
